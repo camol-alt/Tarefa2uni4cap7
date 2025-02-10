@@ -18,6 +18,10 @@ Experimento com a Placa BitDogLab:
 Para fazer o experimento, com o emprego da ferramenta educacional BitDogLad, ultilizei no experimento  os LEDs RGB GPIO 12. Diante disso  em vez de mover o servomotor utilizei as cores do RGB ajustando os valores dO PMW para cada componente do LED ( vermelho,verde e azul)
 Achei muito interessante! O experimento se  inicia com as cores padrões vermelho, verde e azul e depois os LEDs vão se acendendo formando outras cores como:( roxo e branco); o que torna uma iluminação diferenciada. Tornando uma iluminação mais bonita. O mais interesante que ela faz o luup então a alternância de cores torna os Leds mas reluzentes.
 
+Observações:
+Código para a simulação no Wokwi:pwm_02.c.
+Codigo para rodar na plaquinha: Placa.c.
+
 LINK DO VÍDEO EXPLICATIVO:
 Desta forma para simplificar a compreensão produzido um vídeo de  3 minutos, explicando  brevemente as funcionalidades implementadas. E mostrando o  execução do projeto no Wokwi e na placa bitDogLad 
 ......
