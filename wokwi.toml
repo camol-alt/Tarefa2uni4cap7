@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/pwm_02.uf2'
-elf = 'build/pwm_02.elf'
+firmware = 'build/Codigo.uf2'
+elf = 'build/Codigo.elf'
